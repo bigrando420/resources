@@ -1,2 +1,1 @@
-# resources
-A collection of resources to aid in building rock-solid programs from scratch.
+[START HERE](https://github.com/bigrando420/resources/wiki)
